@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inkspire-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70ae635d8b849156d2c347e47eb34c420e5ed6f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+619de74f1ab35d698f52b20ca994501fa233a366")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inkspire-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inkspire-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
