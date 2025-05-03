@@ -86,8 +86,7 @@
               "RelativeToolTip": "backend-inkspire\\Services\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:23:50.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:23:50.554Z"
             },
             {
               "$type": "Document",
@@ -147,8 +146,7 @@
               "RelativeToolTip": "backend-inkspire\\Helpers\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:57:43.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:57:43.389Z"
             },
             {
               "$type": "Document",
@@ -160,8 +158,7 @@
               "RelativeToolTip": "backend-inkspire\\DTOs\\UserDTO.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAiwDcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:57:31.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:57:31.379Z"
             },
             {
               "$type": "Document",
@@ -173,8 +170,7 @@
               "RelativeToolTip": "backend-inkspire\\Controllers\\AuthController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAiwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:57:20.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:57:20.817Z"
             },
             {
               "$type": "Document",
@@ -186,8 +182,7 @@
               "RelativeToolTip": "backend-inkspire\\Services\\AuthService.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAgwHUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:57:05.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:57:05.277Z"
             },
             {
               "$type": "Document",
@@ -199,8 +194,7 @@
               "RelativeToolTip": "backend-inkspire\\Services\\JwtService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:56:52.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:56:52.032Z"
             },
             {
               "$type": "Document",
@@ -212,8 +206,7 @@
               "RelativeToolTip": "backend-inkspire\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:55:50.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:55:50.229Z"
             },
             {
               "$type": "Document",
@@ -225,8 +218,7 @@
               "RelativeToolTip": "backend-inkspire\\Services\\UserService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:45:31.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:45:31.217Z"
             },
             {
               "$type": "Document",
@@ -238,8 +230,7 @@
               "RelativeToolTip": "backend-inkspire\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:45:24.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:45:24.48Z"
             },
             {
               "$type": "Document",
@@ -249,7 +240,7 @@
               "RelativeDocumentMoniker": "backend-inkspire\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\AppDbContext.cs",
               "RelativeToolTip": "backend-inkspire\\AppDbContext.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAgwE0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T07:40:20.406Z",
               "EditorCaption": ""
@@ -264,8 +255,7 @@
               "RelativeToolTip": "backend-inkspire\\Program.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAgwIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:34:26.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:34:26.434Z"
             }
           ]
         }
