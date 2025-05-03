@@ -67,6 +67,18 @@
         }
       }
     },
+    "/api/Auth/logout": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Staff/register": {
       "post": {
         "tags": [
@@ -122,6 +134,18 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Staff/logout": {
+      "post": {
+        "tags": [
+          "Staff"
+        ],
         "responses": {
           "200": {
             "description": "OK"

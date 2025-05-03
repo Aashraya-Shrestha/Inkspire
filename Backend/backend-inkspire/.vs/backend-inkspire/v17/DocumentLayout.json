@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\services\\staffauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\services\\staffauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +39,20 @@
       "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\services\\staffauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\services\\staffauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\dtos\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\services\\istaffauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\services\\istaffauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|c:\\users\\user\\desktop\\inskpire\\inkspire\\backend\\backend-inkspire\\backend-inkspire\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BA7ECF1-8101-4D08-81EB-98E8CBECE9A4}|backend-inkspire\\backend-inkspire.csproj|solutionrelative:backend-inkspire\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,20 +78,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "backend-inkspire\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\appsettings.Development.json",
-              "RelativeToolTip": "backend-inkspire\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-03T09:14:16.915Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "backend-inkspire\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Services\\IAuthService.cs",
+              "RelativeToolTip": "backend-inkspire\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:23:50.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "StaffController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Controllers\\StaffController.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Controllers\\StaffController.cs",
@@ -99,12 +98,11 @@
               "RelativeToolTip": "backend-inkspire\\Controllers\\StaffController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAQwDQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:49:45.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T08:49:45.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "StaffDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\DTOs\\StaffDTO.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\DTOs\\StaffDTO.cs",
@@ -112,12 +110,11 @@
               "RelativeToolTip": "backend-inkspire\\DTOs\\StaffDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:48:58.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T08:48:58.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IStaffAuthService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Services\\IStaffAuthService.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Services\\IStaffAuthService.cs",
@@ -125,12 +122,11 @@
               "RelativeToolTip": "backend-inkspire\\Services\\IStaffAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:48:24.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T08:48:24.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "StaffAuthService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Services\\StaffAuthService.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Services\\StaffAuthService.cs",
@@ -138,47 +134,43 @@
               "RelativeToolTip": "backend-inkspire\\Services\\StaffAuthService.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAQwJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T08:47:40.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T08:47:40.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Helpers\\JwtSettings.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Helpers\\JwtSettings.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Helpers\\JwtSettings.cs",
               "RelativeToolTip": "backend-inkspire\\Helpers\\JwtSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:57:43.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:57:43.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\DTOs\\UserDTO.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\DTOs\\UserDTO.cs",
               "RelativeToolTip": "backend-inkspire\\DTOs\\UserDTO.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwC0AAABPAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwDcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:57:31.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:57:31.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Controllers\\AuthController.cs",
               "RelativeToolTip": "backend-inkspire\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:57:20.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:57:20.817Z"
             },
             {
               "$type": "Document",
@@ -188,10 +180,9 @@
               "RelativeDocumentMoniker": "backend-inkspire\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Services\\AuthService.cs",
               "RelativeToolTip": "backend-inkspire\\Services\\AuthService.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAwGwAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:57:05.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:57:05.277Z"
             },
             {
               "$type": "Document",
@@ -201,75 +192,70 @@
               "RelativeDocumentMoniker": "backend-inkspire\\Services\\JwtService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Services\\JwtService.cs",
               "RelativeToolTip": "backend-inkspire\\Services\\JwtService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:56:52.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:56:52.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Entities\\User.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Entities\\User.cs",
               "RelativeToolTip": "backend-inkspire\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:55:50.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:55:50.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Services\\UserService.cs",
               "RelativeToolTip": "backend-inkspire\\Services\\UserService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:45:31.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:45:31.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "backend-inkspire\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA8wCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:45:24.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:45:24.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\AppDbContext.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\AppDbContext.cs",
               "RelativeToolTip": "backend-inkspire\\AppDbContext.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCkAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T07:40:20.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Program.cs",
               "RelativeDocumentMoniker": "backend-inkspire\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Inskpire\\Inkspire\\Backend\\backend-inkspire\\backend-inkspire\\Program.cs",
               "RelativeToolTip": "backend-inkspire\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T07:34:26.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T07:34:26.434Z"
             }
           ]
         }

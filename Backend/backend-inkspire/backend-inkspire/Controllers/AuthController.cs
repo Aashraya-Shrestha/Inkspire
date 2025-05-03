@@ -31,19 +31,46 @@ namespace backend_inkspire.Controllers
                 return Ok(result);
             }
 
-            [HttpPost("login")]
-            public async Task<IActionResult> Login([FromBody] LoginDTO loginDto)
+        //[HttpPost("login")]
+        //public async Task<IActionResult> Login([FromBody] LoginDTO loginDto)
+        //{
+        //    if (!ModelState.IsValid)
+        //        return BadRequest(ModelState);
+
+        //    var result = await _authService.LoginAsync(loginDto);
+
+        //    if (!result.IsSuccess)
+        //        return Unauthorized(result);
+
+        //    return Ok(result);
+        //}
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] LoginDTO loginDto)
+        {
+            // Add debug logging
+            Console.WriteLine($"Login attempt: {loginDto.EmailOrUsername}");
+
+            if (!ModelState.IsValid)
             {
-                if (!ModelState.IsValid)
-                    return BadRequest(ModelState);
-
-                var result = await _authService.LoginAsync(loginDto);
-
-                if (!result.IsSuccess)
-                    return Unauthorized(result);
-
-                return Ok(result);
+                // Log validation errors
+                var errors = string.Join(", ", ModelState.Values
+                    .SelectMany(v => v.Errors)
+                    .Select(e => e.ErrorMessage));
+                Console.WriteLine($"Validation errors: {errors}");
+                return BadRequest(ModelState);
             }
+
+            var result = await _authService.LoginAsync(loginDto);
+
+            // Log result
+            Console.WriteLine($"Login result: {result.IsSuccess}, Message: {result.Message}");
+
+            if (!result.IsSuccess)
+                return Unauthorized(result);
+
+            return Ok(result);
+        }
 
         [HttpPost("logout")]
         [Authorize(Roles = "Member")]
